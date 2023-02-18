@@ -1,4 +1,5 @@
 # Copyright by @BurnedGuitarist  |  https://www.youtube.com/@burnedguitarist/videos
+# Draft script for fetching GPT response and populating SunVox project.
 
 import os
 import openai
