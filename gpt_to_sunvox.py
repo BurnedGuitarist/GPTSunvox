@@ -17,7 +17,7 @@ import warnings
 SCHEMA = ["note", "velocity", "duration"]
 SUNVOX_NOTES = "C c D d E F f G g A a B "
 NOTES = ["C", "C#", "D", "D#", "E", "F", "F#", "G" "G#", "A", "A#", "B"]
-OUTPUT_PROJECT_PATH = r'C:\sunvox\test.sunvox'
+OUTPUT_PROJECT_PATH = '<output sunvox project path>'
 
 NOTE = "note"
 VELOCITY = "velocity"
