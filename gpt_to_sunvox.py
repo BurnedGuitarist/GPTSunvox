@@ -1,5 +1,5 @@
 # Copyright by @BurnedGuitarist  |  https://www.youtube.com/@burnedguitarist/videos
-# Draft script for fetching GPT response and populating SunVox project.
+# Draft script for fetching GPT response and populating SunVox project using Radiant Voices and SunVox DLL for Python.
 
 import os
 import openai
